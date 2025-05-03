@@ -1,0 +1,17 @@
+sys
+os
+threading
+time
+json
+datetime  
+timedelta
+
+yfinance 
+pandas 
+numpy 
+tkinter 
+tkinter 
+matplotlib
+streamlit 
+time
+ta
